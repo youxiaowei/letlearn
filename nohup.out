@@ -1,0 +1,9 @@
+
+> testdemo@1.0.0 dev D:\upsen\letlearn
+> node build/dev-server.js
+
+> Starting dev server...
+ DONE  Compiled successfully in 20450ms15:09:25
+
+> Listening at http://localhost:3000
+
